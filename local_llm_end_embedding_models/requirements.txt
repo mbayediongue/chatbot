@@ -1,0 +1,9 @@
+streamlit
+transformers
+torch
+faiss-cpu
+PyPDF2
+tqdm
+python-dotenv
+sentencepiece
+accelerate
